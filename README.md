@@ -1,5 +1,11 @@
-# DESN 368 Web Design 1 Starter Template
+# Using Font Share fonts
 
-> **NOTE:** This is a work in progress.
+Repo for installing font share fonts
 
-DIY Template, starter, boilerplate, prototype, etc. for future Web Design projects. 
+1. find a font
+2. download font
+3. go to `Fonts/WEB` folder
+4. Upload `Fonts/WEB/fonts` to web root
+5. Upload FontShare CSS file to web root
+6. Import fontshare css file into our CSS file
+7. Use font in `style.css` with `font-family`
